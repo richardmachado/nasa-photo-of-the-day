@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "react-datepicker/dist/react-datepicker.css";
 import { ReadableText } from "./styled-components/ReadableText";
-import { makeStyles } from "@material-ui/core/styles";
+
 import Tooltip from "@material-ui/core/Tooltip";
 
 export default class Objects extends Component {
